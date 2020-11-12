@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'Atozimple';
+    src: url('AtozimpleSemiBold.eot');
+    src: url('AtozimpleSemiBold.eot?#iefix') format('embedded-opentype'),
+        url('AtozimpleSemiBold.woff2') format('woff2'),
+        url('AtozimpleSemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Atozimple';
+    src: url('AtozimpleExtraBold.eot');
+    src: url('AtozimpleExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('AtozimpleExtraBold.woff2') format('woff2'),
+        url('AtozimpleExtraBold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Atozimple';
+    src: url('AtozimpleMedium.eot');
+    src: url('AtozimpleMedium.eot?#iefix') format('embedded-opentype'),
+        url('AtozimpleMedium.woff2') format('woff2'),
+        url('AtozimpleMedium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
